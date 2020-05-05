@@ -1,0 +1,45 @@
+body, html {
+    background-color: gray;
+    text-align: center;
+}
+
+.header-container {
+    background-color: whitesmoke;
+}
+.main-title {
+    text-align: center;
+    font-size: 60px;
+    font-family: monospace;
+    padding: 10px;
+}
+/**/
+.sub-title {
+    text-align: center;
+    font-size: 30px;
+    padding: 10px;
+}
+
+
+.login-container {
+    background-color: lightskyblue;
+    padding: 10px;
+    margin-top: 30px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+input, button, .psw {
+    border-radius: 10px;
+    padding: 5px;
+    margin-top: 25px;
+}
+
+button {
+    background-color: #AAAAAA;
+    color: #FFFFFF;
+}
+
+button:hover{
+    background-color: #555555;
+    color: #AAAAAA;
+}
